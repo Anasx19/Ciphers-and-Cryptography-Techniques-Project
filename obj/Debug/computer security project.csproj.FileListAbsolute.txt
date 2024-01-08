@@ -1,0 +1,34 @@
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\bin\Debug\computer security project.exe.config
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\bin\Debug\computer security project.exe
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\bin\Debug\computer security project.pdb
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer security project.csprojAssemblyReference.cache
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer_security_project.Form1.resources
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer_security_project.Properties.Resources.resources
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer security project.csproj.GenerateResource.cache
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer security project.csproj.CoreCompileInputs.cache
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer security project.exe
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer security project.pdb
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer_security_project.Form2.resources
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer_security_project.Form3.resources
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer_security_project.Form4.resources
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer_security_project.Form5.resources
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer_security_project.Form6.resources
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer_security_project.Form7.resources
+C:\Users\Mina\Documents\Visual Studio 2019\Projects\computer security project\obj\Debug\computer_security_project.Form8.resources
+G:\Security\Security\computer_security_project\computer security project\bin\Debug\computer security project.exe.config
+G:\Security\Security\computer_security_project\computer security project\bin\Debug\computer security project.exe
+G:\Security\Security\computer_security_project\computer security project\bin\Debug\computer security project.pdb
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer security project.csproj.AssemblyReference.cache
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer_security_project.Form1.resources
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer_security_project.Form2.resources
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer_security_project.Form3.resources
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer_security_project.Form4.resources
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer_security_project.Form5.resources
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer_security_project.Form6.resources
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer_security_project.Form7.resources
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer_security_project.Form8.resources
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer_security_project.Properties.Resources.resources
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer security project.csproj.GenerateResource.cache
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer security project.csproj.CoreCompileInputs.cache
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer security project.exe
+G:\Security\Security\computer_security_project\computer security project\obj\Debug\computer security project.pdb
